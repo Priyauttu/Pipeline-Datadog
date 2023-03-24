@@ -20,7 +20,7 @@ spec:
         name: datadog-cluster-agent
         env:
           - name: DD_API_KEY
-            value: 575bea5b6553e44a9246224b290dde84
+            value: xxxxxxxxxxxxxxx
           - name: DD_APP_KEY            # Optional
             value: <YOUR_APP_KEY>       # Optional
           - name: DD_COLLECT_KUBERNETES_EVENTS
